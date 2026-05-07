@@ -32,6 +32,8 @@ project/
 │   └── font.ttf
 │
 ├── cut/
+├── video/
+│   └── video kalian yang mau di edit
 │
 └── README.md
 ```
