@@ -71,7 +71,7 @@ pkg install git -y
 
 git clone https://github.com/TeamAbabilCoded/snack.git
 
-cd REPOSITORY
+cd snack
 ```
 
 ---
