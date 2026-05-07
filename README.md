@@ -121,6 +121,14 @@ USE_GPU = False
 ```
 
 ---
+# 📁 Video
+
+Masukkan file berikut ke folder `video/`
+
+| File | keterangan |
+|---|---|
+| video input | video utama yang mau di edit |
+---
 
 # 📁 Assets
 
