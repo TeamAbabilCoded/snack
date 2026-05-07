@@ -243,7 +243,9 @@ MIT License
 ---
 
 # ❤️ Credits
-
+- Muhammad Khairil
+- KarFeed
+  
 Powered by:
 - Python
 - FFmpeg
