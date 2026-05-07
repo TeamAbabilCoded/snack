@@ -69,7 +69,7 @@ ffprobe -version
 ```bash
 pkg install git -y
 
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/TeamAbabilCoded/snack.git
 
 cd REPOSITORY
 ```
