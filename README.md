@@ -23,19 +23,19 @@ Script Python untuk memotong video otomatis menjadi beberapa part Shorts/Reels/T
 ```txt
 project/
 │
-├── main.py
-├── config.py
+├──> main.py
+├──> config.py
 │
-├── assets/
-│   ├── logo.png
-│   ├── logo_top.jpg
-│   └── font.ttf
+├──> assets/
+│   ├──> logo.png
+│   ├──> logo_top.jpg
+│   └──> font.ttf
 │
-├── cut/
-├── video/
-│   └── video kalian yang mau di edit
+├──> cut/
+├──> video/
+│   └──> video kalian yang mau di edit
 │
-└── README.md
+└──> README.md
 ```
 
 ---
