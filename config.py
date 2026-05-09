@@ -15,7 +15,7 @@ WM_POS_X = "(W-w)/2"
 WM_POS_Y = "H*0.35"
 
 # ukuran watermark
-WM_SIZE = 900   # lebar watermark (px)
+WM_SIZE = 700   # lebar watermark (px)
 
 # transparansi watermark
 WM_OPACITY = 0.3  # 0.0 - 1.0
