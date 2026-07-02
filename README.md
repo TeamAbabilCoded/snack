@@ -140,7 +140,7 @@ Masukkan file berikut ke folder `assets/`
 |---|---|
 | logo.png | watermark utama |
 | logo_top.jpg | logo tambahan kanan atas |
-| font.ttf | font text overlay |
+| font.otf | font text overlay |
 
 ---
 
